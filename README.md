@@ -45,7 +45,6 @@ Für Windows:
 ```bash
 venv/Scripts/activate
 ```
-
 Für Linux/Mac:
 ```bash
 source venv/bin/activate
