@@ -1,18 +1,20 @@
 [
   {
+    "name": "Gedenkstäte und Museum Sachsenhausen",
     "source": "https://www.sachsenhausen-sbg.de",
     "license": "copyright",
     "allowed_use": "facts_only",
     "content_type": "tourism_information"
   },
   {
+    "name": "Museum Barberini",
     "source": "https://www.museum-barberini.de/",
     "license": "copyright",
     "allowed_use": "facts_only",
     "content_type": "tourism_information"
   },
   {
-    "source": "",
+    "source": "https://www.industriemuseum-brandenburg.de/home",
     "license": "copyright",
     "allowed_use": "facts_only",
     "content_type": "tourism_information"

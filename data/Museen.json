@@ -3,8 +3,6 @@
     "name": "Gedenkstäte und Museum Sachsenhausen",
     "adresse": "Straße der Nationen 22, 16515 Oranienburg",
     "telefon": "+49 3301 200-0",
-    "email": " ",
-    "webseite": "https://www.sachsenhausen-sbg.de",
     "oeffnungszeiten": "täglich 08:30 - 17:00 Uhr",
     "eintrittspreise": "Erwachsene: 10 €, Ermäßigt: 5 €, Kinder unter 18 Jahren: frei",
     "beschreibung": "Die Gedenkstätte und das Museum Sachsenhausen erinnern an die Opfer des Konzentrationslagers Sachsenhausen, das von 1936 bis 1945 in Betrieb war. Besucher können die originalen Lagergebäude, Ausstellungen und Gedenkstätten besichtigen, um mehr über die Geschichte des Ortes und die Schicksale der Häftlinge zu erfahren."
@@ -14,7 +12,6 @@
     "adresse": "Alter Markt 9, 14467 Potsdam",
     "telefon": "+49 331 969 4200",
     "email": " ",
-    "webseite": "https://www.museum-barberini.de/",
     "oeffnungszeiten": "Dienstag bis Sonntag 10:00 - 19:00 Uhr, Dienstag geschlossen",
     "eintrittspreise": "Erwachsene: 16-18 Euro, Ermäßigt: 10 Euro, Kombiticket: 20 Euro, Kombiticket ermäßigt: 12 Euro,   Kinder unter 18 Jahren: frei, Alle Personen unter 25 Jahren haben jeden Donnerstag ab 14 Uhr freien Eintritt.",
     "beschreibung": "Das Museum Barberini in Potsdam präsentiert eine vielfältige Sammlung von Kunstwerken, darunter Gemälde, Skulpturen und Fotografien. Es bietet regelmäßig wechselnde Ausstellungen, die Werke von berühmten Künstlern aus verschiedenen Epochen zeigen. Besucher können die Kunstwerke in einem modernen und ansprechenden Ambiente genießen und mehr über die Geschichte der Kunst erfahren."
@@ -23,18 +20,14 @@
     "name": "Freilandmuseum Lehde",
     "adresse": "Lehde 1, 03222 Lübbenau",
     "telefon": "03573 8702440",
-    "email": " ",
-    "webseite": "https://museums-entdecker.de/home/oeffnungszeiten-eintritt/",
     "oeffnungszeiten": "täglich 10:00 - 18:00 Uhr",
     "eintrittspreise": "Erwachsene: 6 €, Kinder unter 18 Jahren: frei",
     "beschreibung": "Das Freilandmuseum Lehde ist ein Freilichtmuseum, das die traditionelle Lebensweise und Kultur der Spreewaldregion zeigt. Besucher können historische Gebäude, Handwerksbetriebe und landwirtschaftliche Einrichtungen besichtigen, um einen Einblick in das Leben der Menschen in der Region zu erhalten. Es gibt auch Veranstaltungen und Workshops, die das kulturelle Erbe des Spreewalds lebendig halten."
   },
   {
-    "name": "Plastinarium",
+    "name": "Plastinarium Museum",
     "adresse": "Uferstraße 26, 03172 Guben",
     "telefon": "",
-    "email": " ",
-    "webseite": "https://www.plastinarium.de/",
     "oeffnungszeiten": "täglich 10:00 - 18:00 Uhr",
     "eintrittspreise": "Erwachsene: 12 €, Ermäßigt: 10 €, GRUPPENPREISE – AB 10 PERSONEN: Pro Person 10,00 €, Kinder unter 7 Jahren, Lehrer und Referendare (gegen Nachweis: Lehrerausweis oder Bescheinigung der Schule), Begleitperson behinderter Besucher (Kennzeichnung B),Körperspender des IfP, Pressevertreter: frei",
     "beschreibung": "Das Plastinarium in Guben ist ein Museum, das sich der Plastination von menschlichen Körpern widmet. Besucher können die faszinierenden plastinierten Körper und Organe besichtigen, um mehr über die Anatomie des menschlichen Körpers zu erfahren. Das Museum bietet auch informative Führungen und Ausstellungen, die die Wissenschaft und Kunst der Plastination erklären."
@@ -43,8 +36,6 @@
     "name": "Industriemuseum Brandenburg An Der Havel",
     "adresse": "August-Sonntag-Str. 5, 14770 Brandenburg an der Havel, Brandenburg Deutschland",
     "telefon": "+49 3381.304646",
-    "email": " ",
-    "webseite": "https://www.industriemuseum-brandenburg.de/home",
     "oeffnungszeiten": "Di - Fr 09-16 Uhr. Sa - So, Feiertags 10-17 Uhr , (Nov - Febr 10-16 Uhr)",
     "eintrittspreise": "Erwachsene: 6 €, Ermäßigt: 3 €",
     "beschreibung": "Das Industriemuseum Brandenburg an der Havel zeigt die industrielle Geschichte der Region, insbesondere die Entwicklung der Eisen- und Stahlindustrie. Besucher können historische Maschinen, Werkzeuge und Ausstellungen besichtigen, die die Arbeitswelt und die technischen Fortschritte der Industrie veranschaulichen."
@@ -53,10 +44,20 @@
     "name": "Spreewald-Museum Lübbenau",
     "adresse": "Topfmarkt 12, 03222 Lübbenau (Spreewald), Brandenburg Deutschland",
     "telefon": "03573 8702420",
-    "email": " ",
-    "webseite": "https://museums-entdecker.de/home/oeffnungszeiten-eintritt/",
     "oeffnungszeiten": "täglich 11:00 - 16:00 Uhr",
     "eintrittspreise": "Erwachsene: 5 €, Ermäßigt: 3 €, Kinder unter 18 Jahren: frei",
     "beschreibung": "Das Spreewald-Museum in Lübbenau zeigt die Geschichte, Kultur und Natur der Spreewaldregion. Besucher können Ausstellungen über die traditionelle Lebensweise, die Flora und Fauna sowie die Handwerkskunst der Region besichtigen."
+  },
+  {
+    "name": "Fahrradtour 7-Seen-Rundfahrt ",
+    "adresse": "Brandenburg an der Havel, Deutschland",
+    "sehenswürdigkeiten": "Naturschutzzentrum Krugpark, Sicht auf dem Wasserturm, Schlisspark Plaue mit schönen Wasserblick, Schloss Plaue",
+    "beschreibung": "Die 7-Seen-Rundfahrt ist eine beliebte Fahrradtour in der Region Brandenburg an der Havel. Die Tour führt vorbei an sieben wunderschönen Seen, darunter der Plauer See, der Breitlingsee und der Quenzsee. Die Strecke ist gut ausgeschildert und bietet eine abwechslungsreiche Fahrt durch die Natur, vorbei an Wäldern, Wiesen und charmanten Dörfern. Es gibt auch Möglichkeiten zum Picknicken und Schwimmen entlang der Route. Es gibt auch zahlreiche Restaurants auf dem Weg. Die Route ist ca. 45 km lang, Region ist flach und für alle geeignet. Schwierigkeit: leicht bis mittel."
+  },
+  {
+    "name": "Storchenradweg",
+    "adresse": "Brandenburg an der Havel, Deutschland",
+    "sehenswürdigkeiten": "Storchenbeobachtung, Naturschutzgebiete",
+    "beschreibung": "Der Storchenradweg ist eine Fahrradtour in der Region Brandenburg an der Havel, die sich auf die Beobachtung von Störchen und die Erkundung der Naturschutzgebiete konzentriert. Die Route verbindet mehrere Orte, in denen Weißstörche regelmäßig brüten, darunter Rhinow, Stölln, Garlitz und Prietzen. Besucher haben die Möglichkeit, Störche in ihrem natürlichen Lebensraum zu beobachten und mehr über den Schutz dieser faszinierenden Vögel zu erfahren. Die Strecke ist gut ausgeschildert und bietet eine entspannte Fahrt durch die Natur, ideal für Naturliebhaber und Vogelbeobachter. Der Storchenradweg ist ca. 35km lang, Region ist flach und für alle geeignet. Schwierigkeit: leicht bis mittel."
   }
 ]
