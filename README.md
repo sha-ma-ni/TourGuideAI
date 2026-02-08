@@ -28,7 +28,6 @@ Außerdem habe ich die Wikipedia-Seite über Tourismus in Brandenburg benutzt. D
 
 ### *Funktionsweise*
 
-
 ### *Erwartete Ergebnisse*
 
 ### *Projekt starten*
