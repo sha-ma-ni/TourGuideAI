@@ -57,5 +57,3 @@ pip install -r requirements.txt
 - kommerzielle Nutzung ist *nicht erlaubt*
 - öffentliche Bereitstellung ist *nicht erlaubt*
 - Inhalte dürfen nur für Lern- und Bildungszwecke genutzt werden
-
-#RAG #RetrievalAugmentedGeneration #TourGuideAI #HTWBerlin #BesondereKapitelDerWirtschaftsinformatik #FIW
