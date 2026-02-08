@@ -40,6 +40,7 @@ git clone
 python3 -m venv venv
 ```
 3. Virtuelle Umgebung aktivieren:
+
 Für Windows:
 ```bash
 venv/Scripts/activate
