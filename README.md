@@ -54,6 +54,6 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```     
 ### *Nutzungsrechte*
-- keine kommerzielle Nutzung erlaubt
-- keine öffentliche Bereitstellung erlaubt
-- Inhalte dürfen nur für Bildungszwecke genutzt werden
+- kommerzielle Nutzung ist *nicht erlaubt*
+- öffentliche Bereitstellung ist *nicht erlaubt*
+- Inhalte dürfen nur für Lern- und Bildungszwecke genutzt werden
