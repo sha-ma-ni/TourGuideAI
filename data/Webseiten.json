@@ -1,0 +1,20 @@
+[
+  {
+    "source": "https://www.sachsenhausen-sbg.de",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "tourism_information"
+  },
+  {
+    "source": "https://www.museum-barberini.de/",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "tourism_information"
+  },
+  {
+    "source": "",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "tourism_information"
+  }
+]
