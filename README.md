@@ -39,7 +39,7 @@ git clone
 ```bash
 python3 -m venv venv
 ```
-3. Virtuelle Umgebung aktivieren:/n
+3. Virtuelle Umgebung aktivieren: <br>
 
 Für Windows:
 ```bash
