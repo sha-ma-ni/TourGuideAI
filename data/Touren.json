@@ -37,6 +37,23 @@
     "beschreibung": "Der Gasthof zum Slawen in Raddusch bietet einen Bootsverleih für Kanutouren im Spreewald an. Besucher können die malerischen Wasserwege des Spreewalds erkunden und die einzigartige Natur genießen. Die Touren führen durch idyllische Flussläufe, vorbei an grünen Wäldern und traditionellen Spreewaldhäusern. Es gibt verschiedene Routen zur Auswahl, die je nach Dauer und Schwierigkeitsgrad variieren. Der Gasthof zum Slawen bietet auch geführte Touren an, bei denen erfahrene Guides die Teilnehmer durch die schönsten Ecken des Spreewalds führen. Es ist eine großartige Möglichkeit, die Natur zu erleben und die Ruhe der Wasserwege zu genießen.",
     "zielgruppe": "Familien, Paare, Naturliebhaber, Abenteuerlustige",
     "schwierigkeitsgrad": "leicht",
-    "personenanzahl": "1-3 Personen pro Boot"
+    "personenanzahl": "1-3 Personen pro Boot",
+    "preise": "ab 15 Euro pro 2 Stunde",
+    "oeffnungszeiten": "täglich von 9:00 bis 18:00 Uhr"
+  },
+  {
+    "Kategorie": "Kanutouren",
+    "name": "Bootsverleih Dolzke-Insel",
+    "adresse": "An der Dolzke 8, 03222 Lübbenau/Spreewald",
+    "telefon": "03542405988",
+    "beschreibung": "Der Bootsverleih in Lehde bietet seit dem Jahr 2000 Kanutouren durch die Fließe des Biosphärenreservats Spreewald an. Der familiengeführte Betrieb liegt direkt am Ortseingang von Lehde, einem historischen Ortsteil von Lübbenau, und ist ein idealer Ausgangspunkt für Paddeltouren in einer der schönsten Flusslandschaften Deutschlands.\n\nZum Service gehören Einweisungen, geführte Touren, kombinierte Kahn‑ und Bootsausflüge sowie Kartenmaterial und Ausrüstung wie Schwimmwesten für Kinder und wasserdichte Beutel. Parkplätze und Bootstransfers stehen ebenfalls zur Verfügung, sodass sich der Verleih gut für entspannte Naturerlebnisse auf dem Wasser eignet.",
+    "zielgruppe": "Familien, Paare, Naturliebhaber, Abenteuerlustige",
+    "schwierigkeitsgrad": "leicht",
+    "personenanzahl": "1-5 Personen pro Boot",
+    "preise": "ab 16 Euro pro 2 Stunde",
+    "oeffnungszeiten": "täglich von 9:00 bis 20:00 Uhr"
+  },
+  {
+
   }
 ]
