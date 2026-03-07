@@ -14,6 +14,34 @@
     "content_type": "museum"
   },
   {
+    "name": "Museum Barberini",
+    "url": "https://shop.museum-barberini.de/#/tickets/time?group=timeSlot&lang=de",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "museum"
+  },
+  {
+    "name": "Museum Barberini",
+    "url": "https://shop.museum-barberini.de/#/tickets/combi",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "museum"
+  },
+  {
+    "name": "Museum Barberini",
+    "url": "https://shop.museum-barberini.de/#/tickets/time?group=timeSlot",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "museum"
+  },
+  {
+    "name": "Museum Barberini",
+    "url": "https://www.museum-barberini.de/de/kalender/",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "museum"
+  },
+  {
     "url": "https://www.industriemuseum-brandenburg.de/home",
     "license": "copyright",
     "allowed_use": "facts_only",
