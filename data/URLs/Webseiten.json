@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Gedenkstäte und Museum Sachsenhausen",
+    "url": "https://www.sachsenhausen-sbg.de",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "museum"
+  },
+  {
+    "name": "Museum Barberini",
+    "url": "https://www.museum-barberini.de/",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "museum"
+  },
+  {
+    "url": "https://www.industriemuseum-brandenburg.de/home",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "museum"
+  },
+  {
+    "url": "https://www.spreewald-info.de/ausflugsziele/museen/sorbische-webstube",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "museum"
+  },
+  {
+    "url": "https://www.spreewald-info.de/ausflugsziele/museen/weissgerbermuseum-doberlug-kirchhain",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "museum"
+  },
+  {
+    "url": "https://www.spreewald-info.de/ausflugsziele/museen/heimatmuseum-dissen",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "museum"
+  },
+  {
+    "url": "https://www.spreewald-info.de/ausflugsziele/museen/heimatstube-raddusch",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "museum"
+  }
+
+
+]
