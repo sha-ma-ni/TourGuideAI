@@ -1,0 +1,81 @@
+[
+  {
+    "url": "https://www.spreewald-info.de/kahnfahrt/haefen/",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "kahnfahrt"
+  },
+  {
+    "url": "https://www.spreewald-info.de/kahnfahrt/spreewald-kahnfahrt-luebbenau/",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "kahnfahrt"
+  },
+  {
+    "url": "https://www.spreewald-info.de/kahnfahrt/spreewald-kahnfahrt-burg/",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "kahnfahrt"
+  },
+  {
+    "url": "https://www.spreewald-info.de/kahnfahrt/spreewald-kahnfahrt-lehde/",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "kahnfahrt"
+  },
+  {
+    "url": "https://www.spreewald-info.de/kahnfahrt/spreewald-kahnfahrt-luebben/",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "kahnfahrt"
+  },
+  {
+    "url": "https://www.spreewald-info.de/kahnfahrt/spreewald-kahnfahrt-schlepzig/",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "kahnfahrt"
+  },
+  {
+    "url": "https://www.spreewald-info.de/winter/winterkahnfahrt/",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "kahnfahrt, winter"
+  },
+  {
+    "url": "https://www.spreewald-info.de/paddeln/bootsverleih/",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "bootsverleih"
+  },
+  {
+    "url": "https://www.spreewald-info.de/paddeln/kanutouren/",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "paddeln"
+  },
+  {
+    "url": "https://www.spreewald-info.de/ausflugsziele/museen/",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "museum"
+  },
+  {
+    "url": "https://www.spreewald-info.de/rad/radwege-und-radtouren/",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "radtour"
+  },
+  {
+    "url": "https://www.spreewald-info.de/rad/radverleih-anbieter/",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "fahrradverleih"
+  },
+  {
+    "url": "https://www.spreewald-info.de/rad/radtouren/",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "radtour"
+  }
+]
+
