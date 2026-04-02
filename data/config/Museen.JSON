@@ -1,0 +1,17 @@
+{
+  "Museum Barberini": {
+
+    "api_url": "https://barberini.gomus.de/api/v4/tickets?by_bookable=true&by_free_timing=false&by_ticket_type=time_slot&locale=de&per_page=1000&valid_at={date}",
+    "shop_url": "shop.museum-barberini.de",
+    "city": "Potsdam",
+    "region": "Brandenburg",
+    "category": "Kunstmuseum"
+  },
+  "Beispiel Museum": {
+    "api_url": "https://examplemuseum.gomus.de/api/v4/tickets",
+    "shop_url": "shop.examplemuseum.de",
+    "city": "Berlin",
+    "region": "Berlin",
+    "category": "Geschichte"
+  }
+}

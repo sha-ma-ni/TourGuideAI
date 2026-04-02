@@ -70,7 +70,14 @@
     "license": "copyright",
     "allowed_use": "facts_only",
     "content_type": "museum"
+  },
+  {
+    "url": "https://www.spreewald-info.de/kahnfahrt/haefen/",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "museum"
   }
+
 
 
 ]
