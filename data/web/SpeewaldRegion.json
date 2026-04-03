@@ -3,79 +3,157 @@
     "url": "https://www.spreewald-info.de/kahnfahrt/haefen/",
     "license": "copyright",
     "allowed_use": "facts_only",
-    "content_type": "kahnfahrt"
+    "content_type": "kahnfahrt",
+    "ort": "Spreewald",
+    "oeffnungszeiten": "",
+    "eintrittspreise": "",
+    "zielgruppe": "Familien, Paare, Naturliebhaber, Abenteuerlustige",
+    "region": "Spreewald, Brandenburg",
+    "beschreibung": ""
   },
   {
     "url": "https://www.spreewald-info.de/kahnfahrt/spreewald-kahnfahrt-luebbenau/",
     "license": "copyright",
     "allowed_use": "facts_only",
-    "content_type": "kahnfahrt"
+    "content_type": "kahnfahrt",
+    "ort": "Lübbenau, Luebbenau, Lübbenau/Spreewald",
+    "region": "Spreewald, Brandenburg",
+    "eintrittspreise": "",
+    "zielgruppe": "Familien, Paare, Naturliebhaber, Abenteuerlustige",
+    "oeffnungszeiten": "",
+    "beschreibung": ""
   },
   {
     "url": "https://www.spreewald-info.de/kahnfahrt/spreewald-kahnfahrt-burg/",
     "license": "copyright",
     "allowed_use": "facts_only",
-    "content_type": "kahnfahrt"
+    "content_type": "kahnfahrt",
+    "ort": "Burg, Burg (Spreewald), Burg/Spreewald",
+    "region": "Spreewald, Brandenburg",
+    "eintrittspreise": "",
+    "zielgruppe": "Familien, Paare, Naturliebhaber, Abenteuerlustige",
+    "oeffnungszeiten": "",
+    "beschreibung": ""
   },
   {
     "url": "https://www.spreewald-info.de/kahnfahrt/spreewald-kahnfahrt-lehde/",
     "license": "copyright",
     "allowed_use": "facts_only",
-    "content_type": "kahnfahrt"
+    "content_type": "kahnfahrt",
+    "ort": "Lehde, Lehde/Spreewald)",
+    "region": "Spreewald, Brandenburg",
+    "eintrittspreise": "",
+    "zielgruppe": "Familien, Paare, Naturliebhaber, Abenteuerlustige",
+    "oeffnungszeiten": "",
+    "beschreibung": ""
   },
   {
     "url": "https://www.spreewald-info.de/kahnfahrt/spreewald-kahnfahrt-luebben/",
     "license": "copyright",
     "allowed_use": "facts_only",
-    "content_type": "kahnfahrt"
+    "content_type": "kahnfahrt",
+    "ort": "Lübben, Luebben, Lübben/Spreewald",
+    "region": "Spreewald, Brandenburg",
+    "eintrittspreise": "",
+    "zielgruppe": "Familien, Paare, Naturliebhaber, Abenteuerlustige",
+    "oeffnungszeiten": "",
+    "beschreibung": ""
   },
   {
     "url": "https://www.spreewald-info.de/kahnfahrt/spreewald-kahnfahrt-schlepzig/",
     "license": "copyright",
     "allowed_use": "facts_only",
-    "content_type": "kahnfahrt"
+    "content_type": "kahnfahrt",
+    "ort": "Schlepzig, Schlepzig/Spreewald",
+    "region": "Spreewald, Brandenburg",
+    "eintrittspreise": "",
+    "zielgruppe": "Familien, Paare, Naturliebhaber, Abenteuerlustige",
+    "oeffnungszeiten": "",
+    "beschreibung": ""
   },
   {
     "url": "https://www.spreewald-info.de/winter/winterkahnfahrt/",
     "license": "copyright",
     "allowed_use": "facts_only",
-    "content_type": "kahnfahrt, winter"
+    "content_type": "kahnfahrt, winter",
+    "ort": "Spreewald",
+    "region": "Spreewald, Brandenburg",
+    "eintrittspreise": "",
+    "zielgruppe": "Familien, Paare, Naturliebhaber, Abenteuerlustige",
+    "oeffnungszeiten": "",
+    "beschreibung": ""
   },
   {
     "url": "https://www.spreewald-info.de/paddeln/bootsverleih/",
     "license": "copyright",
     "allowed_use": "facts_only",
-    "content_type": "bootsverleih"
+    "content_type": "bootsverleih",
+    "ort": "Spreewald",
+    "region": "Spreewald, Brandenburg",
+    "eintrittspreise": "",
+    "zielgruppe": "Familien, Paare, Naturliebhaber, Abenteuerlustige",
+    "oeffnungszeiten": "",
+    "beschreibung": ""
   },
   {
     "url": "https://www.spreewald-info.de/paddeln/kanutouren/",
     "license": "copyright",
     "allowed_use": "facts_only",
-    "content_type": "paddeln"
+    "content_type": "paddeln",
+    "ort": "Spreewald",
+    "region": "Spreewald, Brandenburg",
+    "eintrittspreise": "",
+    "zielgruppe": "Familien, Paare, Naturliebhaber, Abenteuerlustige",
+    "oeffnungszeiten": "",
+    "beschreibung": ""
   },
   {
     "url": "https://www.spreewald-info.de/ausflugsziele/museen/",
     "license": "copyright",
     "allowed_use": "facts_only",
-    "content_type": "museum"
+    "content_type": "museum",
+    "ort": "Spreewald",
+    "region": "Spreewald, Brandenburg",
+    "eintrittspreise": "",
+    "zielgruppe": "Familien, Paare, Naturliebhaber, Abenteuerlustige",
+    "oeffnungszeiten": "",
+    "beschreibung": ""
   },
   {
     "url": "https://www.spreewald-info.de/rad/radwege-und-radtouren/",
     "license": "copyright",
     "allowed_use": "facts_only",
-    "content_type": "radtour"
+    "content_type": "radtour",
+    "ort": "Spreewald",
+    "region": "Spreewald, Brandenburg",
+    "eintrittspreise": "",
+    "zielgruppe": "Familien, Paare, Naturliebhaber, Abenteuerlustige",
+    "oeffnungszeiten": "",
+    "beschreibung": ""
   },
   {
     "url": "https://www.spreewald-info.de/rad/radverleih-anbieter/",
     "license": "copyright",
     "allowed_use": "facts_only",
-    "content_type": "fahrradverleih"
+    "content_type": "fahrradverleih",
+    "ort": "Spreewald",
+    "region": "Spreewald, Brandenburg",
+    "eintrittspreise": "",
+    "zielgruppe": "Familien, Paare, Naturliebhaber, Abenteuerlustige",
+    "oeffnungszeiten": "",
+    "beschreibung": ""
   },
   {
     "url": "https://www.spreewald-info.de/rad/radtouren/",
     "license": "copyright",
     "allowed_use": "facts_only",
-    "content_type": "radtour"
+    "content_type": "radtour",
+    "ort": "Spreewald",
+    "region": "Spreewald, Brandenburg",
+    "eintrittspreise": "",
+    "zielgruppe": "Familien, Paare, Naturliebhaber, Abenteuerlustige",
+    "oeffnungszeiten": "",
+    "beschreibung": ""
   }
 ]
 
