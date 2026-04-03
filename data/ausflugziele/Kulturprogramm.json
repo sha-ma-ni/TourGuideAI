@@ -6,7 +6,7 @@
     "oeffnungszeiten": "täglich 08:30 - 17:00 Uhr",
     "eintrittspreise": "Erwachsene: 10 €, Ermäßigt: 5 €, Kinder unter 18 Jahren: frei",
     "beschreibung": "Die Gedenkstätte und das Museum Sachsenhausen erinnern an die Opfer des Konzentrationslagers Sachsenhausen, das von 1936 bis 1945 in Betrieb war. Besucher können die originalen Lagergebäude, Ausstellungen und Gedenkstätten besichtigen, um mehr über die Geschichte des Ortes und die Schicksale der Häftlinge zu erfahren.",
-    "kategorie": "Museum",
+    "content_type": "Museum",
     "ort": "Oranienburg",
     "region": "Brandenburg",
     "zielgruppe": "Erwachsene, Jugendliche, Kinder"
@@ -18,7 +18,7 @@
     "oeffnungszeiten": "Dienstag bis Sonntag 10:00 - 19:00 Uhr, Dienstag geschlossen",
     "eintrittspreise": "Erwachsene: 16-18 Euro, Ermäßigt: 10 Euro, Kombiticket: 20 Euro, Kombiticket ermäßigt: 12 Euro,   Kinder unter 18 Jahren: frei, Alle Personen unter 25 Jahren haben jeden Donnerstag ab 14 Uhr freien Eintritt.",
     "beschreibung": "Das Museum Barberini in Potsdam präsentiert eine vielfältige Sammlung von Kunstwerken, darunter Gemälde, Skulpturen und Fotografien. Es bietet regelmäßig wechselnde Ausstellungen, die Werke von berühmten Künstlern aus verschiedenen Epochen zeigen. Besucher können die Kunstwerke in einem modernen und ansprechenden Ambiente genießen und mehr über die Geschichte der Kunst erfahren.",
-    "kategorie": "Museum",
+    "content_type": "Museum",
     "ort": "Potsdam",
     "region": "Brandenburg",
     "zielgruppe": "Erwachsene, Jugendliche, Kinder"
@@ -30,7 +30,7 @@
     "oeffnungszeiten": "täglich 10:00 - 18:00 Uhr",
     "eintrittspreise": "Erwachsene: 6 €, Kinder unter 18 Jahren: frei",
     "beschreibung": "Das Freilandmuseum Lehde ist ein Freilichtmuseum, das die traditionelle Lebensweise und Kultur der Spreewaldregion zeigt. Besucher können historische Gebäude, Handwerksbetriebe und landwirtschaftliche Einrichtungen besichtigen, um einen Einblick in das Leben der Menschen in der Region zu erhalten. Es gibt auch Veranstaltungen und Workshops, die das kulturelle Erbe des Spreewalds lebendig halten.",
-    "kategorie": "Museum",
+    "content_type": "Museum",
     "ort": "Lübbenau, Luebbenau",
     "region": "Spreewald, Brandenburg",
     "zielgruppe": "Erwachsene, Jugendliche, Kinder"
@@ -42,7 +42,7 @@
     "oeffnungszeiten": "täglich 10:00 - 18:00 Uhr",
     "eintrittspreise": "Erwachsene: 12 €, Ermäßigt: 10 €, GRUPPENPREISE – AB 10 PERSONEN: Pro Person 10,00 €, Kinder unter 7 Jahren, Lehrer und Referendare (gegen Nachweis: Lehrerausweis oder Bescheinigung der Schule), Begleitperson behinderter Besucher (Kennzeichnung B),Körperspender des IfP, Pressevertreter: frei",
     "beschreibung": "Das Plastinarium in Guben ist ein Museum, das sich der Plastination von menschlichen Körpern widmet. Besucher können die faszinierenden plastinierten Körper und Organe besichtigen, um mehr über die Anatomie des menschlichen Körpers zu erfahren. Das Museum bietet auch informative Führungen und Ausstellungen, die die Wissenschaft und Kunst der Plastination erklären.",
-    "kategorie": "Museum",
+    "content_type": "Museum",
     "ort": "Guben",
     "region": "Brandenburg",
     "zielgruppe": "Erwachsene, Jugendliche"
@@ -54,7 +54,7 @@
     "oeffnungszeiten": "Di - Fr 09-16 Uhr. Sa - So, Feiertags 10-17 Uhr , (Nov - Febr 10-16 Uhr)",
     "eintrittspreise": "Erwachsene: 6 €, Ermäßigt: 3 €",
     "beschreibung": "Das Industriemuseum Brandenburg an der Havel zeigt die industrielle Geschichte der Region, insbesondere die Entwicklung der Eisen- und Stahlindustrie. Besucher können historische Maschinen, Werkzeuge und Ausstellungen besichtigen, die die Arbeitswelt und die technischen Fortschritte der Industrie veranschaulichen.",
-    "kategorie": "Museum",
+    "content_type": "Museum",
     "ort": "Brandenburg an der Havel",
     "region": "Brandenburg",
     "zielgruppe": "Erwachsene, Jugendliche, Kinder"
@@ -66,7 +66,7 @@
     "oeffnungszeiten": "täglich 11:00 - 16:00 Uhr",
     "eintrittspreise": "Erwachsene: 5 €, Ermäßigt: 3 €, Kinder unter 18 Jahren: frei",
     "beschreibung": "Das Spreewald-Museum in Lübbenau zeigt die Geschichte, Kultur und Natur der Spreewaldregion. Besucher können Ausstellungen über die traditionelle Lebensweise, die Flora und Fauna sowie die Handwerkskunst der Region besichtigen.",
-    "kategorie": "Museum",
+    "content_type": "Museum",
     "ort": "Lübbenau, Luebbenau",
     "region": "Spreewald, Brandenburg",
     "zielgruppe": "Erwachsene, Jugendliche, Kinder"
@@ -78,7 +78,7 @@
     "oeffnungszeiten": "Dienstag, Donnerstag, Freitag: 11.00 bis 17.00 Uhr\nder erste Sonntag im Monat: 13.00 bis 17.00 Uhr, 4 Wochen vor bis 2 Wochen nach Ostern:\nDienstag bis Sonntag und Ostermontag 13.00 bis 17.00 Uhr",
     "eintrittspreise": "Erwachsener: 2,50 Euro, Erwachsener ermäßigt: 2,00 Euro, Kinder: 1,00 Euro, Gruppenpreise: Erwachsenengruppen ab 10 Personen: 2,00 Euro pro Person. Zusaezliche Gebuehr für Führungen.",
     "beschreibung": "Die Sorbische Webstube in Drebkau ist ein Museum, das die traditionelle Webkunst der Sorben zeigt. Besucher können die handgewebten Stoffe und Textilien bewundern, die von den Sorben hergestellt werden, und mehr über die Geschichte und Kultur der sorbischen Gemeinschaft erfahren.",
-    "kategorie": "Museum",
+    "content_type": "Museum",
     "ort": "Drebkau",
     "region": "Spreewald, Brandenburg",
     "zielgruppe": "Erwachsene, Jugendliche, Kinder"
@@ -90,7 +90,7 @@
     "oeffnungszeiten": "Dienstag bis Donnerstag: 09.00 bis 12.00 Uhr und 14.00 bis 17.00 Uhr, Freitag: 10.00 bis 12.00 Uhr und 14.00 bis 16.00 Uhr, Samstag: gern nach Vereinbarung, Sonntag: 14.00 bis 16.00 Uhr",
     "eintrittspreise": "Erwachsene: 4,00 Euro, Kinder, Jugendliche, Studenten, Rentner: 2,00 Euro; Familienkarte bis 5 Personen: 12,00 Euro, Gruppentarife ab 10 Personen: 3,00 Euro",
     "beschreibung": "Das Weißgerbermuseum in Doberlug‑Kirchhain ist das einzige Museum dieser Art in Europa und befindet sich in einer originalen Weißgerberwerkstatt aus dem Jahr 1753. Es vermittelt anschaulich die traditionellen Arbeitsschritte der Lederherstellung und zeigt historische Werkzeuge sowie Felle und Leder exotischer Tiere aus verschiedenen Kontinenten. Ergänzt wird die Ausstellung durch eine Schuster‑ und Gesellenstube sowie eine Sammlung regionaler Zinnwaren. Führungen und eine kleine Fachbibliothek stehen nach Anmeldung zur Verfügung.",
-    "kategorie": "Museum",
+    "content_type": "Museum",
     "ort": "Doberlug-Kirchhain",
     "region": "Spreewald, Brandenburg",
     "zielgruppe": "Erwachsene, Jugendliche, Kinder"
@@ -106,7 +106,7 @@
       "Führung": "zzgl. 1,00 Euro pro Person"
     },
     "beschreibung": "Das Storchen‑ und Museumsdorf Dissen / Dešno liegt im Spreewald und ist bekannt für seine zahlreichen Storchennester, die historische Fachwerkkirche und das liebevoll gestaltete Heimatmuseum. Die Dorfkirche beeindruckt mit einer reich verzierten Decke aus Pflanzen‑ und Tiermotiven sowie deutschen und sorbisch‑wendischen Inschriften; hier finden regelmäßig traditionelle Gesangsveranstaltungen statt.\n\nDas Heimatmuseum zeigt die Lebensweise der sorbisch‑wendischen Bauern, historische Trachten und regionale Bräuche. Besucher können per Kamera Störche und Schleiereulen beobachten und von April bis August mehrere besetzte Storchennester im Dorf sehen. Dissen eignet sich zudem als Ausgangspunkt für Ausflüge in die Spreeauenlandschaft mit seltenen Tier‑ und Pflanzenarten.",
-    "kategorie": "Museum",
+    "content_type": "Museum",
     "ort": "Dissen-Striesow",
     "region": "Spreewald, Brandenburg",
     "zielgruppe": "Erwachsene, Jugendliche, Kinder"
@@ -118,7 +118,7 @@
     "oeffnungszeiten": "in der Saison zu ausgewählten Zeiten, meist Samstags, Sonntags, geöffnet",
     "eintrittspreise": "frei",
     "beschreibung": "Die Heimatstube Raddusch vermittelt anschaulich die Geschichte und den Alltag der Menschen im Spreewald um 1900. In mehreren originalgetreu eingerichteten Räumen zeigt das ehemalige Wohnhaus traditionelle Wohn‑ und Arbeitsbereiche sowie historische Geräte aus Handwerken wie Kahnbau, Schusterei, Imkerei und Schneiderei.\n\nDas Museum wird ehrenamtlich vom Heimat‑ und Trachtenverein Raddusch betreut. Besichtigungen und Führungen sind nach vorheriger Anmeldung möglich und bieten persönliche Einblicke in das regionale Leben und Handwerk. Die Heimatstube liegt zentral am Dorfplatz, in unmittelbarer Nähe eines historischen Bücherturms mit öffentlicher Tauschbibliothek.",
-    "kategorie": "Museum",
+    "content_type": "Museum",
     "ort": "Vetschau OT Raddusch",
     "region": "Raddusch, Brandenburg",
     "zielgruppe": "Erwachsene, Jugendliche, Kinder"
@@ -130,7 +130,7 @@
     "oeffnungszeiten": "April bis Oktober: täglich und feiertags 10:00 - 19:00 Uhr, November bis März: täglich und feiertags 10:00 - 18:00 Uhr, geschlossen: 22-26. Dezember und 31. Dezember bis 01. Januar",
     "eintrittspreise": "Erwachsene: 5 Euro, Kinder: 3 Euro",
     "beschreibung": "Die Slawenburg Raddusch ist eine rekonstruierte slawische Befestigungsanlage im Spreewald und vermittelt die Geschichte der slawischen Besiedlung der Niederlausitz. Die Anlage erinnert an den historischen Ringwall aus dem 9. und 10. Jahrhundert und wurde nach archäologischen Ausgrabungen originalgetreu wieder aufgebaut.\n\nHeute beherbergt die Slawenburg eine moderne archäologische Dauerausstellung mit bedeutenden Originalfunden, die einen Überblick über 130 000 Jahre Siedlungsgeschichte von der Steinzeit bis ins Mittelalter geben. Moderne Medien, interaktive Angebote und familienfreundliche Quizformate machen die Ausstellung besonders anschaulich. Das barrierefreie Gelände mit Außenbereich lädt zudem zum Entdecken, Spielen und Verweilen ein.",
-    "kategorie": "Museum",
+    "content_type": "Museum",
     "ort": "Vetschau OT Raddusch",
     "region": "Raddusch, Brandenburg",
     "zielgruppe": "Erwachsene, Jugendliche, Kinder"
@@ -140,8 +140,10 @@
     "adresse": "Hafenstraße 1, 03222 Lübbenau (Spreewald), Brandenburg Deutschland",
     "telefon": "03542-22 25",
     "webseite": "https://grosser-kahnhafen.de/",
+    "content_type": "Hafen, Sehenswürdigkeit",
+    "ort": "Lübbenau, Luebbenau",
+    "region": "Spreewald, Brandenburg",
+    "zielgruppe": "Erwachsene, Jugendliche, Kinder",
     "beschreibung": "Der Große Spreewaldhafen ist ein Platz, an dem man sich trifft, der mit seinen Restaurants, kleinen Geschäften und Imbissläden für seine Gäste da ist. An der Gurkenmeile kann jeder nach Lust und Laune die alten, geheim gehaltenen Rezepturen verkosten und auch mit nach Hause nehmen. Aus den zahlreichen Biergärten erschließt sich ein wunderbarer Blick auf das geschäftige Treiben. Der Große Spreewaldhafen Lübbenau bietet den Gästen des Spreewaldes das breiteste Angebot an täglich stattfindenden Kahnrundfahrten, egal ob man mit seiner Familie oder in der Gruppe anreist."
   }
-
-
 ]

@@ -1,16 +1,16 @@
 [
   {
-    "kategorie": "Radtouren",
+    "content_type": "Radtouren",
     "name": "Fahrradtour 7-Seen-Rundfahrt ",
     "adresse": "Brandenburg an der Havel, Deutschland",
     "sehenswürdigkeiten": "Naturschutzzentrum Krugpark, Sicht auf dem Wasserturm, Schlisspark Plaue mit schönen Wasserblick, Schloss Plaue",
     "beschreibung": "Die 7-Seen-Rundfahrt ist eine beliebte Fahrradtour in der Region Brandenburg an der Havel. Die Tour führt vorbei an sieben wunderschönen Seen, darunter der Plauer See, der Breitlingsee und der Quenzsee. Die Strecke ist gut ausgeschildert und bietet eine abwechslungsreiche Fahrt durch die Natur, vorbei an Wäldern, Wiesen und charmanten Dörfern. Es gibt auch Möglichkeiten zum Picknicken und Schwimmen entlang der Route. Es gibt auch zahlreiche Restaurants auf dem Weg. Die Route ist ca. 45 km lang, Region ist flach und für alle geeignet. Schwierigkeit: leicht bis mittel.",
     "zielgruppe": "Familien, Paare, Naturliebhaber, Abenteuerlustige",
     "schwierigkeitsgrad": "leicht bis mittel",
-    "personenanzahl": "unbegrenzt"
+    "personenanzahl": "unbegrenzt",
     },
   {
-    "kategorie": "Radtouren",
+    "content_type": "Radtouren",
     "name": "Storchenradweg",
     "adresse": "Brandenburg an der Havel, Deutschland",
     "sehenswürdigkeiten": "Storchenbeobachtung, Naturschutzgebiete",
@@ -20,7 +20,7 @@
     "personenanzahl": "unbegrenzt"
   },
   {
-    "kategorie": "Radtouren",
+    "content_type": "Radtouren",
     "name": "Havelradweg",
     "adresse": "Brandenburg an der Havel, Deutschland",
     "sehenswürdigkeiten": "Havelseen, historische Städte, Naturschutzgebiete",
@@ -30,7 +30,7 @@
     "personenanzahl": "unbegrenzt"
   },
   {
-    "Kategorie": "Kanutouren",
+    "content_type": "Kanutouren",
     "name": "Gasthof zum Slawen - Bootsverleih in Raddusch",
     "adresse": "Radduscher Dorfstraße 28, 03226 Vetschau/Spreewald",
     "telefon": "3543370809",
@@ -42,7 +42,7 @@
     "oeffnungszeiten": "täglich von 9:00 bis 18:00 Uhr"
   },
   {
-    "Kategorie": "Kanutouren",
+    "content_type": "Kanutouren",
     "name": "Bootsverleih Dolzke-Insel",
     "adresse": "An der Dolzke 8, 03222 Lübbenau/Spreewald",
     "telefon": "03542405988",
@@ -54,6 +54,7 @@
     "oeffnungszeiten": "täglich von 9:00 bis 20:00 Uhr"
   },
   {
+    "content_type": "Kahnfahrten",
     "name": "Kahnfahrten im Spreewald",
     "adresse": "Verschiedene Standorte im Spreewald",
     "telefon": "035422225",
