@@ -17,6 +17,9 @@ Deswegen habe ich nur die Informationen (Fakten) über Öffnungszeiten, Eintritt
 - https://www.plastinarium.de - die Inhalte sind stark geschützt.
 - https://www.industriemuseum-brandenburg.de/home
 - https://grosser-kahnhafen.de
+- https://www.spreewald-info.de/ 
+
+und andere offizielle Webseiten von Sehenswürdigkeiten in Brandenburg.
 
 Folgende Webseite habe ich nur für Orientierung benutzt:
 - https://museums-entdecker.de/home/oeffnungszeiten-eintritt
@@ -26,9 +29,16 @@ Für "TourGuideAI" habe ich Informationen in JSON-Format gesammelt, die für RAG
 Außerdem habe ich die Wikipedia-Seite über Tourismus in Brandenburg benutzt. Die Inhalte stehen unter Creative‑Commons‑Lizenz CC BY‑SA 4.0, die Nutzung für RAG und kommerzielle Nutzung erlaubt.
 - https://de.wikipedia.org/wiki/Tourismus_in_Brandenburg
 
-### *Funktionsweise*
-
 ### *Erwartete Ergebnisse*
+
+Nach einer Anfrage liefert das RAG-System Informationen über Freizeitaktivitäten, Öffnungszeiten oder Preise für Bootsfarten in Brandenburg.
+
+*Im Planung:* Informationen über Entrittspreise von Museen, Öffnungszeiten, etc. von anderen Sehenswürdigkeiten in Brandenburg.
+
+### *Beispielanfrage*
+
+![Test 3](./data/evaluation/Test3.png)
+![Test 5](./data/evaluation/Test5.png)
 
 ### *Projekt starten*
 1. Repository clonen:
@@ -49,10 +59,19 @@ Für Linux/Mac:
 ```bash
 source venv/bin/activate
 ```
-4. Abhängigkeiten installieren:
+4. Ollama installieren:
+https://ollama.com/download
+
+5. Nach der Instalation das Modell "Mistral" herunterladen:
+```bash
+ollama pull mistral
+```
+
+6. Abhängigkeiten installieren:
 ```bash
 pip install -r requirements.txt
-```     
+```   
+
 ### *Nutzungsrechte*
 - kommerzielle Nutzung ist *nicht erlaubt*
 - öffentliche Bereitstellung ist *nicht erlaubt*
