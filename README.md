@@ -74,6 +74,7 @@ ollama pull mistral
 ```bash
 pip install -r requirements.txt
 ```   
+7. Milvus lokal via Docker starten (siehe README.MILVUS_DOCKER.md)
 
 ### *Nutzungsrechte*
 - kommerzielle Nutzung ist *nicht erlaubt*

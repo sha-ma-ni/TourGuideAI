@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Gedenkstäte und Museum Sachsenhausen",
+    "url": "https://www.sachsenhausen-sbg.de",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "museum",
+    "ort": "Oranienburg",
+    "region": "Brandenburg"
+  },
+  {
+    "name": "Museum Barberini",
+    "url": "https://www.museum-barberini.de/",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "museum",
+    "ort": "Potsdam",
+    "region": "Brandenburg"
+  },
+  {
+    "name": "Museum Barberini",
+    "url": "https://shop.museum-barberini.de/#/tickets/time?group=timeSlot&lang=de",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "museum",
+    "ort": "Potsdam",
+    "region": "Brandenburg"
+  },
+  {
+    "name": "Museum Barberini",
+    "url": "https://shop.museum-barberini.de/#/tickets/combi",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "museum",
+    "ort": "Potsdam",
+    "region": "Brandenburg"
+  },
+  {
+    "name": "Museum Barberini",
+    "url": "https://shop.museum-barberini.de/#/tickets/time?group=timeSlot",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "museum",
+    "ort": "Potsdam",
+    "region": "Brandenburg"
+  },
+  {
+    "name": "Museum Barberini",
+    "url": "https://www.museum-barberini.de/de/kalender/",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "museum",
+    "ort": "Potsdam",
+    "region": "Brandenburg"
+  },
+  {
+    "url": "https://www.industriemuseum-brandenburg.de/home",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "museum",
+    "ort": "Brandenburg an der Havel",
+    "region": "Brandenburg"
+  },
+  {
+    "url": "https://www.spreewald-info.de/ausflugsziele/museen/sorbische-webstube",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "museum",
+    "ort": "Vetschau/Spreewald",
+    "region": "Spreewald, Brandenburg"
+  },
+  {
+    "url": "https://www.spreewald-info.de/ausflugsziele/museen/weissgerbermuseum-doberlug-kirchhain",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "museum",
+    "ort": "Doberlug-Kirchhain",
+    "region": "Spreewald, Brandenburg"
+  },
+  {
+    "url": "https://www.spreewald-info.de/ausflugsziele/museen/heimatmuseum-dissen",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "museum",
+    "ort": "Dissen",
+    "region": "Spreewald, Brandenburg"
+  },
+  {
+    "url": "https://www.spreewald-info.de/ausflugsziele/museen/heimatstube-raddusch",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "museum",
+    "ort": "Raddusch",
+    "region": "Spreewald, Brandenburg"
+  },
+  {
+    "url": "https://www.spreewald-info.de/kahnfahrt/haefen/",
+    "license": "copyright",
+    "allowed_use": "facts_only",
+    "content_type": "museum",
+    "ort": "Spreewald",
+    "region": "Spreewald, Brandenburg"
+  }
+]
