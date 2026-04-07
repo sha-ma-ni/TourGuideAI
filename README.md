@@ -12,7 +12,7 @@ Ein generatives Modell ohne Retrieval reicht hier nicht aus, weil es nur auf Tra
 
 ### *Datenquellen*
 Die offiziellen Webseiten von Museen und Sehenswürdigkeiten in Brandenburg sind urheberrechtlich geschützt.
-Deswegen habe ich nur die Informationen (Fakten) über Öffnungszeiten, Eintrittspreise, etc. von den Webseiten gesammelt, aber nicht die Inhalte selbst. Die Informationen habe ich in einer Datei gespeichert, die für RAG benutzt werden kann.
+Deswegen habe ich nur die Informationen (Fakten) über Namen, Öffnungszeiten, Eintrittspreise von den Webseiten gesammelt, aber nicht die Inhalte selbst. Die Informationen habe ich in einer Datei gespeichert, die für RAG benutzt werden kann.
 - https://www.museum-barberini.de/de/
 - https://www.plastinarium.de - die Inhalte sind stark geschützt.
 - https://www.industriemuseum-brandenburg.de/home
