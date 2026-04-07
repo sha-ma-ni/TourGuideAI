@@ -28,17 +28,20 @@ Folgende Webseite habe ich nur für Orientierung benutzt:
 Für "TourGuideAI" habe ich Informationen in JSON-Format gesammelt, die für RAG benutzen werden können.
 Außerdem habe ich die Wikipedia-Seite über Tourismus in Brandenburg benutzt. Die Inhalte stehen unter Creative‑Commons‑Lizenz CC BY‑SA 4.0, die Nutzung für RAG und kommerzielle Nutzung erlaubt.
 - https://de.wikipedia.org/wiki/Tourismus_in_Brandenburg
+- https://de.wikipedia.org/wiki/Spreewald
+- https://de.wikipedia.org/wiki/Gro%C3%9Fer_Spreewaldhafen_L%C3%BCbbenau und andere.
 
 ### *Erwartete Ergebnisse*
 
-Nach einer Anfrage liefert das RAG-System Informationen über Freizeitaktivitäten, Öffnungszeiten oder Preise für Bootsfarten in Brandenburg.
+Auf Anfrage liefert das RAG‑System Informationen über Freizeitaktivitäten, Öffnungszeiten von Museen oder Preise für Bootsfahrten in Brandenburg.
 
-*Im Planung:* Informationen über Entrittspreise von Museen, Öffnungszeiten, etc. von anderen Sehenswürdigkeiten in Brandenburg.
-
+*In Planung:* Informationen über Eintrittspreise von Museen, Öffnungszeiten etc. anderer Sehenswürdigkeiten in Brandenburg.
 ### *Beispielanfrage*
 
-![Test 3](./data/evaluation/Test3.png)
-![Test 5](./data/evaluation/Test5.png)
+![Test 3](/data/evaluation/README_Test3_1.png)
+![Test 3](/data/evaluation/README_Test3_2.png)
+![Test 5](/data/evaluation/README_Test5_1.png)
+![Test 5](/data/evaluation/README_Test5_2.png)
 
 ### *Projekt starten*
 1. Repository clonen:
